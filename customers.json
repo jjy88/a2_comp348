@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "John",
+    "age": 43,
+    "address": "123 Apple Street",
+    "phone": "514-4283"
+  },
+  {
+    "id": 2,
+    "name": "Katya",
+    "age": 26,
+    "address": "49 Queen Mary Road",
+    "phone": "514-2347"
+  },
+  {
+    "id": 3,
+    "name": "Ahmad",
+    "age": 91,
+    "address": "1888 Pepper Lane",
+    "phone": ""
+  },
+  {
+    "id": 4,
+    "name": "Goop",
+    "age": 19,
+    "address": "Mars Base Alpha",
+    "phone": "394-8888"
+  },
+  {
+    "id": 5,
+    "name": "Jill",
+    "age": 34,
+    "address": "Somewhere Street",
+    "phone": "901-1234"
+  },
+  {
+    "id": 6,
+    "name": "Invalid",
+    "age": 999,
+    "address": "Bad Street",
+    "phone": "426-1234"
+  },
+  {
+    "id": 7,
+    "name": "NoName",
+    "age": "",
+    "address": "Addressless",
+    "phone": "514-1234"
+  }
+]
