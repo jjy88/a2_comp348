@@ -1,7 +1,0 @@
-John|43|123 Apple Street|514-4283
-Katya|26|49 Queen Mary Road|514-2347
-Ahmad|91|1888 Pepper Lane|
-Goop|19|Mars Base Alpha|394-8888
-Jill|34|Somewhere Street|901-1234
-Invalid|999|Bad Street|426-1234
-NoName||Addressless|514-1234
